@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/intel/Desktop/Dijkstra-Algorithm-main/build",
+  "command": "D:\\progs\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Dijkstra.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Dijkstra.dir\\dijkstra.cpp.obj -c C:\\Users\\intel\\Desktop\\Dijkstra-Algorithm-main\\dijkstra.cpp",
+  "file": "C:/Users/intel/Desktop/Dijkstra-Algorithm-main/dijkstra.cpp"
+},
+{
+  "directory": "C:/Users/intel/Desktop/Dijkstra-Algorithm-main/build",
+  "command": "D:\\progs\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Dijkstra.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Dijkstra.dir\\input.cpp.obj -c C:\\Users\\intel\\Desktop\\Dijkstra-Algorithm-main\\input.cpp",
+  "file": "C:/Users/intel/Desktop/Dijkstra-Algorithm-main/input.cpp"
+},
+{
+  "directory": "C:/Users/intel/Desktop/Dijkstra-Algorithm-main/build",
+  "command": "D:\\progs\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/Dijkstra.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Dijkstra.dir\\main.cpp.obj -c C:\\Users\\intel\\Desktop\\Dijkstra-Algorithm-main\\main.cpp",
+  "file": "C:/Users/intel/Desktop/Dijkstra-Algorithm-main/main.cpp"
+}
+]
